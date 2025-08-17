@@ -6,7 +6,9 @@ Hi 👋 I'm Max Kucher
 ### About Me
 
 🐹 **Role:** BSA 
+
 🎓 **Education:** Student at School 21 (Ecole 42)   
+
 🌱 **Interests:** Learning new technologies, and contributing to open-source projects.
 
 ### Skills:
